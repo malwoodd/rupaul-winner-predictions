@@ -19,8 +19,7 @@ queen_properties = ["id", "queen_name", "birthdate", "age", "hometown", "locatio
 Queen = namedtuple("Queen", queen_properties)
 
 def clean_name(raw_name):
-  #print(raw_name)
-  #correcting for spelling mistakes on wiki site and/or inconsistencies in naming conventions
+  #correcting for spelling mistakes and/or inconsistencies in naming conventions needed for the URL
   if raw_name == "Victoria 'Porkchop' Parker":
     return('Victoria_Parker')
   if raw_name == 'Kalorie Karbdashian Williams':
@@ -68,7 +67,7 @@ print(len(queens_json))
 
 list_of_names = []
 
-for idx, queen in enumerate(queens_json):
+for queen in queens_json:
   raw_name = queen["name"]
   id = queen["id"]
   list_of_names.append(clean_name(raw_name))
@@ -79,7 +78,6 @@ print(list_of_names)
 def create_tuple_for(queen_object):
   queen_name = clean_name(queen_object["name"])
   my_url = 'https://rupaulsdragrace.fandom.com/wiki/' + queen_name
-  #print(my_url)
   # opening connection and grabbing the page
   uClient = uReq(my_url)
   #off loads the content into a variable
@@ -93,7 +91,7 @@ def create_tuple_for(queen_object):
   location_info = page_soup.findAll("div", {"data-source": "Location"})
   hometown_info = page_soup.findAll("div", {"data-source": "Hometown"})
 
-  # If there is no hometown on the wiki, make it equal to location
+  #if there is no hometown on the wiki, make it equal to location and vice versa
   if hometown_info == [] and location_info == []:
     hometown = ""
     location = ""
@@ -129,7 +127,6 @@ def create_tuple_for(queen_object):
 
   # Create tuple from properties
   id = queen_object["id"]
-  # age = birth_info[1].div.text
   queen_tuple = Queen(id, queen_name, birthdate, age, hometown, location)
 
   return queen_tuple
