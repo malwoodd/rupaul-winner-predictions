@@ -8,6 +8,12 @@ If you haven't already taken a peak at my personal README, I'm a Data newbie and
 
 <br>
 
+## This week's maxi challange..
+
+This project aims to predict the outcome of a season of Rupaul's Drag Race, ***and*** RuPaul's Drag Race All Stars. We will be writing in Python 🐍 , and using three different machine learning algorithms to make said predictions. Stay tuned as we navigate through ML for the very first time!
+
+<br>
+
 ## What you need to know about RuPaul
 
 So what or who in the world is RuPaul? RuPaul Andre Charles, known simply as as RuPaul, is an American drag queen, actor, model, singer, television personality, and author. Most importantly - **iconic**. Bless RuPaul for creating Rupaul's Drag Race, arguably the best reality TV there is, and the topic of this project.
@@ -51,6 +57,11 @@ All I knew was that I wanted it to be a topic I had at least *some* interest in,
 <br>
 
 ## I've made my decision
+*(Coming Soon)*
+
+<br>
+
+## Resources
 *(Coming Soon)*
 
 <br>
