@@ -12,6 +12,9 @@ If you haven't already taken a peak at my personal README, I'm a Data newbie and
 
 This project aims to predict the outcome of a season of Rupaul's Drag Race, ***and*** RuPaul's Drag Race All Stars. We will be writing in Python 🐍 , and using three different machine learning algorithms to make said predictions. Stay tuned as we navigate through ML for the very first time!
 
+<p align="center">
+<img src="https://media.giphy.com/media/H6KFIM5lAV2wTYzEwn/giphy.gif" width="350"/>
+</p>
 <br>
 
 ## What you need to know about RuPaul
@@ -40,7 +43,7 @@ All I knew was that I wanted it to be a topic I had at least *some* interest in,
 
 <br>
 
-## What predictions we will be making
+## How we'll be training our models
 *(Coming Soon)*
 
 1. Regular Seasons
