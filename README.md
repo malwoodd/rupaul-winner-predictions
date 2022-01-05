@@ -64,8 +64,16 @@ All I knew was that I wanted it to be a topic I had at least *some* interest in,
 
 <br>
 
-## Resources
-*(Coming Soon)*
+## Skills I learned & resources we used
+*(So far)*
+
+Web scraping with Beautiful Soup:
+- [Beautiful Soup article](https://realpython.com/beautiful-soup-web-scraper-python/)
+- [Beautiful Soup YouTube tutorial](https://www.youtube.com/watch?v=XQgXKtPSzUI&t=103s)
+- [RuPaul's Drag Race Wiki](https://rupaulsdragrace.fandom.com/wiki/RuPaul%27s_Drag_Race_Wiki)
+
+Working with APIs:
+- [No Key No Shade: A RuPaul's Drag Race API](https://drag-race-api.readme.io/docs)
 
 <br>
 
