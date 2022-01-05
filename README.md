@@ -35,6 +35,7 @@ All I knew was that I wanted it to be a topic I had at least *some* interest in,
 <br>
 
 ## What predictions we will be making
+*(Coming Soon)*
 
 1. Regular Seasons
 
@@ -43,16 +44,19 @@ All I knew was that I wanted it to be a topic I had at least *some* interest in,
 <br>
 
 ## The time has come..
+*(Coming Soon)*
 
 ... and may the best model, win!
 
 <br>
 
 ## I've made my decision
+*(Coming Soon)*
 
 <br>
 
 <p align="center">
 <img src="https://media.giphy.com/media/fQMzQ63o6CA77sSVet/giphy.gif" width="450"/>
 </p>
+
 I know this file is ridled with RuPaul phrases so if you have any questions, please feel free to ask! I tried to keep it pretty easy to follow along, but I also wanted to ensure I had ✨ fun ✨ and stayed true to myself. If you've made it this far, thank you. If you have any feedback, or just want to ki ki, please reach out!
