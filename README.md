@@ -4,7 +4,7 @@
 
 # ✨ Category is... Machine learning predictions ✨ 
 
-If you haven't already taken a peak at my personal README, I'm a Data newbie and you've just stumbled upon my first project! Thanks for coming along for the ride, it's gonna be a fun one. Warning: I *love* gifs.
+If you haven't already taken a peak at my personal README, I'm a Data newbie and you've just stumbled upon my first project! Thanks for coming along for the ride, it's gonna be a fun one. Warning: I *love* gifs & RuPaul references.
 
 <br>
 
@@ -43,7 +43,7 @@ All I knew was that I wanted it to be a topic I had at least *some* interest in,
 
 <br>
 
-## How we'll be training our models
+## (Super)models of the world
 *(Coming Soon)*
 
 1. Regular Seasons
@@ -81,4 +81,4 @@ Working with APIs:
 <img src="https://media.giphy.com/media/fQMzQ63o6CA77sSVet/giphy.gif" width="450"/>
 </p>
 
-I know this file is ridled with RuPaul phrases so if you have any questions, please feel free to ask! I tried to keep it pretty easy to follow along, but I also wanted to ensure I had ✨ fun ✨ and stayed true to myself. If you've made it this far, thank you. If you have any feedback, or just want to ki ki, please reach out!
+I know this file is ridled with drag jargon so if you have any questions, please feel free to ask! I tried to keep it pretty easy to follow along, but I also wanted to ensure I had ✨ fun ✨ and stayed true to myself. If you've made it this far, thank you. If you have any feedback, or just want to ki ki, please reach out!
