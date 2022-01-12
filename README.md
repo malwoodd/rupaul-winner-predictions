@@ -13,7 +13,7 @@ If you haven't already taken a peak at my personal README, I'm a Data newbie and
 
 This project aims to predict the outcome of a season of Rupaul's Drag Race, ***and*** RuPaul's Drag Race All Stars. We will be writing in Python 🐍 , and using three different machine learning algorithms to make said predictions. Stay tuned as we navigate through ML for our very first time!
 
-Not sure what Drag Race is? [Feel free to read about it here](https://rupaulsdragrace.fandom.com/wiki/RuPaul%27s_Drag_Race). TLDR: Drag Race is a reality competition TV series on the search for "America's Next Drag Superstar".
+Not sure what Drag Race is? [Feel free to read about it here](https://rupaulsdragrace.fandom.com/wiki/RuPaul%27s_Drag_Race). TLDR: Drag Race is a reality competition TV series on the search for "America's Next Drag Superstar", and All Stars is the sister series which showcases past contestants from Drag Race competing for a spot in the Drag Race Hall of Fame.
 
 <p align="center">
 <img src="https://media.giphy.com/media/5hgPtUOQOwtiChBZwk/giphy.gif" width="350"/>
