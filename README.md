@@ -9,29 +9,15 @@ If you haven't already taken a peak at my personal README, I'm a Data newbie and
 <br>
 
 ## This week's maxi challange..
+*(The Project)*
 
-This project aims to predict the outcome of a season of Rupaul's Drag Race, ***and*** RuPaul's Drag Race All Stars. We will be writing in Python 🐍 , and using three different machine learning algorithms to make said predictions. Stay tuned as we navigate through ML for the very first time!
+This project aims to predict the outcome of a season of Rupaul's Drag Race, ***and*** RuPaul's Drag Race All Stars. We will be writing in Python 🐍 , and using three different machine learning algorithms to make said predictions. Stay tuned as we navigate through ML for our very first time!
 
-<p align="center">
-<img src="https://media.giphy.com/media/H6KFIM5lAV2wTYzEwn/giphy.gif" width="350"/>
-</p>
-<br>
-
-## What you need to know about RuPaul
-
-So what or who in the world is RuPaul? RuPaul Andre Charles, known simply as as RuPaul, is an American drag queen, actor, model, singer, television personality, and author. Most importantly - **iconic**. Bless RuPaul for creating Rupaul's Drag Race, arguably the best reality TV there is, and the topic of this project.
-
-RuPaul's Drag Race is an American reality competition television series in search of "America's next drag superstar." RuPaul plays the role of host, mentor, and head judge for this series, as contestants are given different challenges each week.
-
-RuPaul's Drag Race *All Stars* is an All Star spin-off of RuPaul's Drag Race. These seasons feature returning queens from previous seasons for a chance to be inducted into the "Drag Race Hall of Fame".
+Not sure what Drag Race is? [Feel free to read about it here](https://rupaulsdragrace.fandom.com/wiki/RuPaul%27s_Drag_Race). TLDR: Drag Race is a reality competition TV series on the search for "America's Next Drag Superstar".
 
 <p align="center">
-<img src="https://media.giphy.com/media/9PcxYDdotuaJmK65WC/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/5hgPtUOQOwtiChBZwk/giphy.gif" width="350"/>
 </p>
-
-<br>
-
-## The motivation behind this project
 
 For months/weeks I was stumped for a project idea. Finally, when my younger brother came to visit me for Christmas we decided it was time to collaborate! I also want to give a special shoutout to my friend Mike who introduced me to this [lovely API](https://drag-race-api.readme.io/docs) that sparked the entire project.
 
@@ -43,8 +29,10 @@ All I knew was that I wanted it to be a topic I had at least *some* interest in,
 
 <br>
 
-## (Super)models of the world
-*(Coming Soon)*
+## Supermodels of the world
+*(The ML models we will be using)*
+
+**Coming Soon**
 
 1. Regular Seasons
 
@@ -53,19 +41,32 @@ All I knew was that I wanted it to be a topic I had at least *some* interest in,
 <br>
 
 ## The time has come..
-*(Coming Soon)*
+*(The Results)*
 
-... and may the best model, win!
+**Coming Soon**
 
 <br>
 
 ## I've made my decision
-*(Coming Soon)*
+*(What model made the best predictions)*
+
+**Coming Soon**
+
+<p align="center">
+<img src="https://media.giphy.com/media/5kFbEHEWLZCp64uTa0/giphy.gif" width="350"/>
+</p>
 
 <br>
 
-## Skills I learned & resources we used
-*(So far)*
+## How to run my project locally
+
+At the top of each .py file you'll see a link to Google colab where we originally wrote & tested all of our code. Copy that link and feel free to ask any questions if needed.
+
+Each of these files were written with a specific objective (i.e. getting Queen biography data, challenge data), and produced a CSV which will also be uploaded within a specific folder for review (to be created). Some external data has been used to supplement these CSV files with data that was not present in the API. All external sources will be referenced below.
+
+<br>
+
+## Skills I learned & resources we used *(So far)*
 
 Web scraping with Beautiful Soup:
 - [Beautiful Soup article](https://realpython.com/beautiful-soup-web-scraper-python/)
